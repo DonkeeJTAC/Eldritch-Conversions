@@ -19,3 +19,5 @@
 ### You may be emotionally attached to your 7ft tall Goliath Rogue Thief named Tiny, or your Lizardfolk Bard that suffers from a terrible lisp and casts wild magic like a Sorcerer with each "hisssssssss", or your blind Druid that can only take the wild shape of creatures from the Fey realm that are in the Druids dreams. These characters are part of who you are, you have grown to love them! You don't want to stop using these player characters just because you are gaming with a group of friends that use a different system.
 
 ### Eldritch Conversions aims to bridge these gaps and make your characters, monsters and adventures system agnostic. Why be stuck funding a single company or small bucket of companies just because they write the adventures for your chosen system? With Eldrich Conversions you can pick the adventures that are fun and the setting that appeals to you. Don't be stuck with a single publisher or in one gaming era anymore. Convert what you want to play. Play what is fun, that's why we play the game.  
+
+![alt text](https://github.com/DonkeeJTAC/Eldritch-Conversions/blob/main/Roadmap.jpg)
