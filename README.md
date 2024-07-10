@@ -1,6 +1,6 @@
 # Day 1: 9 July 2024: Mission and Vision- 
 
-#Eldritch-Conversions will be an application that is built with modularity in mind. 
+# Eldritch-Conversions will be an application that is built with modularity in mind. 
 # It aims to solve the age old TTRPG and system issues when chossing to play multiple systems or looking to convert from one system to a new system. 
 # 2024 marks the 50 year anniversary for the eldest TTRPG on planet earth.
 # In the last 50 years there has been some great adventures released. The issue is that a majority of these adventureas are not compatiable with the rule sets of todays games. 
