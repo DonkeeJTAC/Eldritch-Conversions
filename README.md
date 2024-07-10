@@ -6,8 +6,8 @@
 # In the last 50 years there has been some great adventures released. The issue is that a majority of these adventureas are not compatiable with the rule sets of todays games. 
 # This leaves players with two choices. Play older versions of the rules, or a game master spends time converting past adventures to todays rule sets. Eldritch conversions will shorten that chain!
 
-# Eldritch-Conversions will be developed in two seperate pipes. The first conversion program to be developed will convert Monsters and NPC's from a game system of choice to another game system of choice. 
-# The second pipe will be an application that can convert player character. The plan is that once both independent pipes are functional they will be merged into a single usable applicaiton.
+# Eldritch-Conversions will be developed in two seperate pipes. The first conversion application to be developed will convert Monsters and NPC's from a game system of choice to another game system of choice. 
+# The second pipe will be an application that can convert player characters. The plan is that once both independent pipes are functional they will be merged into a single usable applicaiton.
 # Common game systems that will be implemented are listed:
   # 5e
   # 3.x
