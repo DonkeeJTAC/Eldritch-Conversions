@@ -6,8 +6,6 @@
 
 ### Eldritch-Conversions will be developed in two separate pipes. The first conversion application to be developed will convert Monsters and NPCs from a game system of choice to another game system of choice. The second pipe will be an application that can convert player characters. The plan is that once both independent pipes are functional, they will be merged into a single usable application.
  
- \columnbreak
- 
 ### Common game systems that will be implemented are listed:
 
   #### 5e
